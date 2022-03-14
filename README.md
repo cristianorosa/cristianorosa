@@ -8,7 +8,7 @@
 - 🌱 I'm currently studying about the Node.js ecosystem and the java Spring framework...
 - 💞️ I'm not looking for collaboration, but any help is welcome!
 
-- 📫 cris@inverter.com.br
+- 📫 cristiano@inverter.com.br
 
 <!---
 cristianorosa/cristianorosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
