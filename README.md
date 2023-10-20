@@ -1,4 +1,4 @@
-- 👋 Oi, Eu sou Cristiano Rosa, sou programador de sistemas a 30 anos... Sou curioso e estou sempre experimentando novas tecnologias.
+- 👋 Oi, Eu sou Cristiano Rosa, sou programador de sistemas desde 1992... Sou curioso e estou sempre experimentando novas tecnologias.
 - 👀 Tenho interesse em filosofia, esportes, gerenciamento de projetos, tecnologia e programação (python, javascript, java, machine learning, sistemas web). 
 - 🌱 Estou atualmente estudando sobre o ecosistema Node.js e o framework java Spring...
 - 💞️ Não busco colaboração, mas qualquer ajuda e bem vinda!
