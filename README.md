@@ -13,6 +13,7 @@
 ![Badge](https://img.shields.io/static/v1?label=Microsoft&message=MCP&color=7ab317&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=Sun&message=SCJP&color=2496ED&style=flat-square)
 ![Badge](https://img.shields.io/static/v1?label=Scrum%20Foundation&message=SFPC&color=ED8B00&style=flat-square)
+![Badge](https://img.shields.io/static/v1?label=Oracle Cloud&message=OCIF&color=2496ED&style=flat-square)
 
 ![Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
